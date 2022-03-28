@@ -21,3 +21,4 @@ elif intro == '4':
 else:
     logging.info ("Podana liczba poza zakresem - nie ma przypisanego działania")
 
+print (f"Wynik to {calc_result}")
